@@ -8,7 +8,7 @@ A simple and efficient SGPA (Semester Grade Point Average) calculator designed t
 - User-friendly interface for easy navigation.
 
 ## Usage : 
-1. Enter how many subject, names, max marks(full marsk), and expected marks and their credit point in External exam(Mid-Sem + End-Sem) similarlly for Internal exam (Viva + Written) also.
+1. Enter how many subject, names, max marks(full marks), and expected marks and their credit point in External exam(Mid-Sem + End-Sem) similarlly for Internal exam (Viva + Written) also.
 
 
 ## Contact Me :
